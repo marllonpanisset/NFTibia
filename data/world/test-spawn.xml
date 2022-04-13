@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<spawns>
+<spawn centerx="71" centery="94" centerz="7" radius="5">
+<monster name="Chicken" direction="2" spawntime="60" x="4" y="-2"/>
+<monster name="Chicken" direction="2" spawntime="60" x="2" y="-4"/>
+<monster name="Black Sheep" direction="2" spawntime="60" x="-1" y="0"/>
+<monster name="Sheep" direction="2" spawntime="60" x="-1" y="-2"/>
+<monster name="Black Sheep" direction="2" spawntime="60" x="-3" y="4"/>
+<monster name="Black Sheep" direction="2" spawntime="60" x="-4" y="1"/>
+<monster name="Sheep" direction="2" spawntime="60" x="-2" y="2"/>
+<monster name="Black Sheep" direction="2" spawntime="60" x="0" y="5"/>
+<monster name="Sheep" direction="2" spawntime="60" x="-3" y="-1"/>
+<monster name="Black Sheep" direction="2" spawntime="60" x="1" y="3"/>
+</spawn>
+<spawn centerx="71" centery="102" centerz="7" radius="5">
+<monster name="Sheep" direction="2" spawntime="60" x="-3" y="1"/>
+<monster name="Sheep" direction="2" spawntime="60" x="-4" y="-1"/>
+<monster name="Black Sheep" direction="2" spawntime="60" x="-2" y="-1"/>
+<monster name="Sheep" direction="2" spawntime="60" x="1" y="0"/>
+</spawn>
+<spawn centerx="78" centery="91" centerz="7" radius="5">
+<monster name="Chicken" direction="2" spawntime="60" x="-2" y="-2"/>
+<monster name="Chicken" direction="2" spawntime="60" x="1" y="-1"/>
+</spawn>
+<spawn centerx="71" centery="89" centerz="7" radius="5">
+<monster name="Chicken" direction="2" spawntime="60" x="-1" y="0"/>
+</spawn>
+<spawn centerx="95" centery="92" centerz="7" radius="5">
+<monster name="Pink Butterfly" direction="2" spawntime="60" x="-3" y="-2"/>
+<monster name="Blue Butterfly" direction="2" spawntime="60" x="3" y="-1"/>
+<monster name="Panda" direction="2" spawntime="60" x="-1" y="-1"/>
+</spawn>
+<spawn centerx="104" centery="91" centerz="7" radius="5">
+<monster name="Red Butterfly" direction="2" spawntime="60" x="-3" y="0"/>
+<monster name="Panda" direction="2" spawntime="60" x="-4" y="0"/>
+<monster name="Panda" direction="2" spawntime="60" x="2" y="0"/>
+</spawn>
+<spawn centerx="63" centery="119" centerz="7" radius="5">
+<monster name="Snake" direction="2" spawntime="60" x="-2" y="-3"/>
+<monster name="Snake" direction="2" spawntime="60" x="-4" y="-1"/>
+</spawn>
+<spawn centerx="81" centery="123" centerz="7" radius="5">
+<monster name="Snake" direction="2" spawntime="60" x="4" y="-3"/>
+<monster name="Snake" direction="2" spawntime="60" x="3" y="-1"/>
+<monster name="Wolf" direction="2" spawntime="60" x="-3" y="-2"/>
+<monster name="Wolf" direction="2" spawntime="60" x="-2" y="4"/>
+</spawn>
+<spawn centerx="81" centery="134" centerz="7" radius="5">
+<monster name="Snake" direction="2" spawntime="60" x="4" y="-1"/>
+<monster name="Snake" direction="2" spawntime="60" x="2" y="0"/>
+</spawn>
+<spawn centerx="57" centery="125" centerz="7" radius="5">
+<monster name="Snake" direction="2" spawntime="60" x="-2" y="-1"/>
+<monster name="Snake" direction="2" spawntime="60" x="-3" y="1"/>
+</spawn>
+<spawn centerx="57" centery="138" centerz="7" radius="5">
+<monster name="Snake" direction="2" spawntime="60" x="-1" y="-4"/>
+<monster name="Snake" direction="2" spawntime="60" x="-3" y="-3"/>
+<monster name="Deer" direction="2" spawntime="60" x="-3" y="3"/>
+<monster name="Wolf" direction="2" spawntime="60" x="1" y="2"/>
+<monster name="Wolf" direction="2" spawntime="60" x="-1" y="-3"/>
+</spawn>
+<spawn centerx="66" centery="139" centerz="7" radius="5">
+<monster name="Wolf" direction="2" spawntime="60" x="-2" y="-1"/>
+</spawn>
+<spawn centerx="74" centery="140" centerz="7" radius="5">
+<monster name="Troll" direction="2" spawntime="60" x="1" y="0"/>
+<monster name="Wolf" direction="2" spawntime="60" x="0" y="-3"/>
+</spawn>
+<spawn centerx="81" centery="144" centerz="7" radius="5">
+<monster name="Troll" direction="2" spawntime="60" x="3" y="2"/>
+<monster name="Rabbit" direction="2" spawntime="60" x="4" y="0"/>
+<monster name="Rabbit" direction="2" spawntime="60" x="4" y="-2"/>
+<monster name="Rabbit" direction="2" spawntime="60" x="3" y="-1"/>
+</spawn>
+<spawn centerx="81" centery="151" centerz="7" radius="5">
+<monster name="Troll" direction="2" spawntime="60" x="3" y="1"/>
+</spawn>
+<spawn centerx="72" centery="148" centerz="7" radius="5">
+<monster name="Troll" direction="2" spawntime="60" x="3" y="2"/>
+<monster name="Wolf" direction="2" spawntime="60" x="-1" y="3"/>
+</spawn>
+<spawn centerx="63" centery="146" centerz="7" radius="5">
+<monster name="Snake" direction="2" spawntime="60" x="-4" y="0"/>
+<monster name="Snake" direction="2" spawntime="60" x="-3" y="2"/>
+<monster name="Deer" direction="2" spawntime="60" x="-2" y="3"/>
+<monster name="Deer" direction="2" spawntime="60" x="-4" y="2"/>
+<monster name="Wolf" direction="2" spawntime="60" x="1" y="1"/>
+</spawn>
+<spawn centerx="79" centery="149" centerz="6" radius="5">
+<monster name="Troll" direction="2" spawntime="60" x="3" y="3"/>
+<monster name="Troll" direction="2" spawntime="60" x="5" y="0"/>
+<monster name="Troll" direction="2" spawntime="60" x="-2" y="-3"/>
+</spawn>
+<spawn centerx="75" centery="149" centerz="6" radius="5">
+<monster name="Troll" direction="2" spawntime="60" x="-1" y="1"/>
+</spawn>
+<spawn centerx="75" centery="149" centerz="5" radius="5">
+<monster name="Troll" direction="2" spawntime="60" x="-1" y="-3"/>
+<monster name="Troll" direction="2" spawntime="60" x="-1" y="1"/>
+</spawn>
+<spawn centerx="82" centery="150" centerz="5" radius="5">
+<monster name="Orc" direction="2" spawntime="60" x="1" y="-4"/>
+<monster name="Troll" direction="2" spawntime="60" x="2" y="2"/>
+</spawn>
+<spawn centerx="75" centery="149" centerz="4" radius="5">
+<monster name="Orc" direction="2" spawntime="60" x="3" y="-3"/>
+</spawn>
+<spawn centerx="81" centery="149" centerz="4" radius="5">
+<monster name="Orc" direction="2" spawntime="60" x="3" y="-3"/>
+<monster name="Troll" direction="2" spawntime="60" x="-1" y="-1"/>
+<monster name="Troll" direction="2" spawntime="60" x="3" y="3"/>
+</spawn>
+<spawn centerx="75" centery="149" centerz="3" radius="5">
+<monster name="Orc" direction="2" spawntime="60" x="-1" y="-1"/>
+<monster name="Orc" direction="2" spawntime="60" x="4" y="-3"/>
+<monster name="Troll" direction="2" spawntime="60" x="2" y="1"/>
+</spawn>
+<spawn centerx="81" centery="149" centerz="3" radius="5">
+<monster name="Orc Spearman" direction="2" spawntime="60" x="2" y="-2"/>
+<monster name="Orc" direction="2" spawntime="60" x="2" y="2"/>
+<monster name="Troll" direction="2" spawntime="60" x="1" y="1"/>
+</spawn>
+</spawns>
