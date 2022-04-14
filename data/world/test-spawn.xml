@@ -12,7 +12,7 @@
 <monster name="Sheep" direction="2" spawntime="60" x="-3" y="-1"/>
 <monster name="Black Sheep" direction="2" spawntime="60" x="1" y="3"/>
 </spawn>
-<spawn centerx="71" centery="102" centerz="7" radius="5">
+<spawn centerx="71" centery="101" centerz="7" radius="5">
 <monster name="Sheep" direction="2" spawntime="60" x="-3" y="1"/>
 <monster name="Sheep" direction="2" spawntime="60" x="-4" y="-1"/>
 <monster name="Black Sheep" direction="2" spawntime="60" x="-2" y="-1"/>
