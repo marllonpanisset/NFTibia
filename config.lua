@@ -13,13 +13,13 @@ mapkind = "OTBM"
 sourcedata = "XML"
 
 -- the message the player gets when he logs in
-loginmsg = "Welcome to Oldebra"
+loginmsg = "Welcome to NFTibia"
 
 -- the port otserv listens on
 port = "7171"
 
 -- name of our server
-servername = "Oldebra"
+servername = "NFTibia"
 
 -- name of the owner of our server
 ownername = "GM Old"
@@ -37,7 +37,7 @@ location = "Brazil"
 ip = "auto"
 
 -- The messagebox you sometimes get before you choose characters
-motd = "Welcome to Oldebra"
+motd = "Welcome to NFTibia"
 motdnum="0"
 
 -- use md5 passwords for accounts, yes/no
@@ -86,10 +86,10 @@ map_db   = ""
 ------------------------- YurOTS basic configuration ---------------------------
 
 -- name of your world (seen on the character list when logging in)
-worldname = "Oldebra"
+worldname = "NFTibia"
 
 -- how often do server saves it's state (0 = off, 5 = 5min, 60 = hour)
-autosave = 10
+autosave = 1
 
 -- builtin account maker (rook/main/none)
 accmaker = "rook"
@@ -149,7 +149,7 @@ burstarrowdmg = {"1.0", "5.0", "0.24", "0.55"}
 --------------------------- Multipliers and gains ------------------------------
 
 -- experience multiplier (how much faster you got exp from monsters)
-expmul = 10
+expmul = 1
 
 -- experience multiplier for pvp-enforced (how much faster you got exp from players)
 expmulpvp = 2
