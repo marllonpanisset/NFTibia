@@ -6,12 +6,6 @@ NFTibia is a oldschool MMORPG NFT Tibia Server, enjoy.
 ### Map:
 
 - Starting island
-- 6 Npc's
-- 1 Island/forest
-- 1 Big Cave with a lot of hunts
-- 1 Underground Sewer 
-- 1 Orc/Troll Montain
-- 1 Wolf Hunt
 - Some Quests
 
 ## Tools:
