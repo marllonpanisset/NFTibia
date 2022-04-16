@@ -26,14 +26,12 @@
 <monster name="Chicken" direction="2" spawntime="60" x="-1" y="0"/>
 </spawn>
 <spawn centerx="95" centery="92" centerz="7" radius="5">
-<monster name="Pink Butterfly" direction="2" spawntime="60" x="-3" y="-2"/>
-<monster name="Blue Butterfly" direction="2" spawntime="60" x="3" y="-1"/>
-<monster name="Panda" direction="2" spawntime="60" x="-1" y="-1"/>
+<monster name="Rabbit" direction="2" spawntime="60" x="-2" y="-2"/>
+<monster name="Rabbit" direction="2" spawntime="60" x="3" y="0"/>
 </spawn>
 <spawn centerx="104" centery="91" centerz="7" radius="5">
-<monster name="Red Butterfly" direction="2" spawntime="60" x="-3" y="0"/>
-<monster name="Panda" direction="2" spawntime="60" x="-4" y="0"/>
-<monster name="Panda" direction="2" spawntime="60" x="2" y="0"/>
+<monster name="Rabbit" direction="2" spawntime="60" x="-2" y="0"/>
+<monster name="Rabbit" direction="2" spawntime="60" x="3" y="1"/>
 </spawn>
 <spawn centerx="63" centery="119" centerz="7" radius="5">
 <monster name="Snake" direction="2" spawntime="60" x="-2" y="-3"/>
@@ -120,5 +118,71 @@
 <monster name="Orc Spearman" direction="2" spawntime="60" x="2" y="-2"/>
 <monster name="Orc" direction="2" spawntime="60" x="2" y="2"/>
 <monster name="Troll" direction="2" spawntime="60" x="1" y="1"/>
+</spawn>
+<spawn centerx="89" centery="75" centerz="8" radius="5">
+<monster name="Rat" direction="2" spawntime="60" x="-1" y="-4"/>
+<monster name="Rat" direction="2" spawntime="60" x="1" y="-4"/>
+<monster name="Rat" direction="2" spawntime="60" x="0" y="-3"/>
+</spawn>
+<spawn centerx="89" centery="84" centerz="8" radius="5">
+<monster name="Rat" direction="2" spawntime="60" x="0" y="0"/>
+</spawn>
+<spawn centerx="80" centery="84" centerz="8" radius="5">
+<monster name="Rat" direction="2" spawntime="60" x="-4" y="1"/>
+</spawn>
+<spawn centerx="100" centery="84" centerz="8" radius="5">
+<monster name="Rat" direction="2" spawntime="60" x="2" y="1"/>
+<monster name="Rat" direction="2" spawntime="60" x="4" y="-1"/>
+</spawn>
+<spawn centerx="82" centery="95" centerz="8" radius="5">
+<monster name="Rat" direction="2" spawntime="60" x="-3" y="-2"/>
+<monster name="Rat" direction="2" spawntime="60" x="-3" y="0"/>
+</spawn>
+<spawn centerx="98" centery="94" centerz="8" radius="5">
+<monster name="Rat" direction="2" spawntime="60" x="1" y="-1"/>
+<monster name="Rat" direction="2" spawntime="60" x="1" y="1"/>
+</spawn>
+<spawn centerx="90" centery="102" centerz="8" radius="5">
+<monster name="Rat" direction="2" spawntime="60" x="-1" y="1"/>
+</spawn>
+<spawn centerx="89" centery="111" centerz="8" radius="5">
+<monster name="Rat" direction="2" spawntime="60" x="1" y="0"/>
+</spawn>
+<spawn centerx="89" centery="116" centerz="8" radius="5">
+<monster name="Rat" direction="2" spawntime="60" x="-1" y="1"/>
+</spawn>
+<spawn centerx="73" centery="85" centerz="8" radius="5">
+<monster name="Rat" direction="2" spawntime="60" x="0" y="-2"/>
+<monster name="Rat" direction="2" spawntime="60" x="1" y="-2"/>
+</spawn>
+<spawn centerx="125" centery="85" centerz="8" radius="10">
+<monster name="Bug" direction="2" spawntime="60" x="-7" y="0"/>
+<monster name="Bug" direction="2" spawntime="60" x="0" y="-9"/>
+<monster name="Bug" direction="2" spawntime="60" x="3" y="-9"/>
+<monster name="Bug" direction="2" spawntime="60" x="2" y="9"/>
+<monster name="Bug" direction="2" spawntime="60" x="5" y="7"/>
+<monster name="Bug" direction="2" spawntime="60" x="-9" y="-1"/>
+<monster name="Bug" direction="2" spawntime="60" x="9" y="0"/>
+</spawn>
+<spawn centerx="140" centery="86" centerz="8" radius="5">
+<monster name="Spider" direction="2" spawntime="60" x="3" y="-1"/>
+</spawn>
+<spawn centerx="144" centery="92" centerz="8" radius="5">
+<monster name="Spider" direction="2" spawntime="60" x="-1" y="2"/>
+</spawn>
+<spawn centerx="150" centery="92" centerz="8" radius="5">
+<monster name="Spider" direction="2" spawntime="60" x="0" y="-4"/>
+</spawn>
+<spawn centerx="150" centery="84" centerz="8" radius="5">
+<monster name="Spider" direction="2" spawntime="60" x="1" y="-4"/>
+</spawn>
+<spawn centerx="157" centery="93" centerz="8" radius="5">
+<monster name="Spider" direction="2" spawntime="60" x="0" y="-2"/>
+</spawn>
+<spawn centerx="164" centery="85" centerz="8" radius="5">
+<monster name="Poison Spider" direction="2" spawntime="60" x="0" y="1"/>
+</spawn>
+<spawn centerx="173" centery="85" centerz="8" radius="5">
+<monster name="Poison Spider" direction="2" spawntime="60" x="2" y="-1"/>
 </spawn>
 </spawns>
